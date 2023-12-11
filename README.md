@@ -1,4 +1,4 @@
-Smart Cities Dataset Analysis Project
+#Smart Cities Dataset Analysis Project
 
 Overview
 The goal of this project is to analyze datasets related to smart cities. Due to limited available datasets, a clustering approach is employed to derive insights.
