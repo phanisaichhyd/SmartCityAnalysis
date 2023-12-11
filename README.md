@@ -24,6 +24,7 @@ How to Use
         ◦ Open and run the Python notebooks (.ipynb files) to execute the code.
     3. Local Development:
         ◦ Use the Python source files (.py) for local development or integration into other environments.
+
 Note
     • Ensure that you have the necessary dependencies installed in your Python environment.
     • This project is developed and tested on the Databricks Community Edition.
